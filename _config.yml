@@ -177,7 +177,7 @@ night_mode: "off"
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 banner:
-  heading_style: "font-weight: bold"
+  heading_style: "font-weight: bold;"
 
 # Excerpt size setting
 # excerpt_size: 350
