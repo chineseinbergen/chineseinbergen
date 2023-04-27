@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
 }
 
 
@@ -82,7 +82,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: calc($spacing-unit);
 }
 
 li {
@@ -127,7 +127,7 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  padding-left: calc($spacing-unit / 2);
   @include relative-font-size(1.125);
   letter-spacing: -1px;
   font-style: italic;
@@ -185,8 +185,8 @@ pre {
 .wrapper {
   max-width: $content-width;
   margin: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: calc($spacing-unit);
+  padding-left: calc($spacing-unit);
   @extend %clearfix;
 }
 
@@ -207,7 +207,7 @@ pre {
  */
 table {
   display: block;
-  margin-bottom: $spacing-unit;
+  margin-bottom: calc($spacing-unit);
   width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 5%);
@@ -221,7 +221,7 @@ table {
   }
 
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: (calc($spacing-unit / 3)) (calc($spacing-unit / 2));
   }
 
   th {
