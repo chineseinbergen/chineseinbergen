@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023年中文协会会议
+title: 卑尔根中文协会2023年年会
 subtitle: 
 categories: 会议 中文学校
 banner:
