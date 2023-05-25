@@ -2,7 +2,7 @@
 layout: post
 title: 2023年5月中文学校夏季聚会
 subtitle: 
-categories: 活动 中文学校
+categories:
 banner:
   image: /assets/images/banners/banner6.jpg
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
@@ -10,7 +10,8 @@ banner:
   height: "50vh"
   min_height: "38vh"
 sidebar: []
-tags: 活动 中文学校
+tags: 中文学校
+
 ---
 
 ## 通知
@@ -27,3 +28,4 @@ tags: 活动 中文学校
 
 欢迎大家报名参与，让我们在这春暖花开之际和孩子们一起同玩共乐！
 
+![img](../../../assets/images/posters/20230527.jpeg)
