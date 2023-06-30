@@ -75,6 +75,8 @@ VIPPS账号582454名称显示BCCA
 
 用VIPPS交款弊端是协会收到的每笔收费都要交1,75%的手续费，所以还是建议大家尽量转账。 
 
+会员注册链接: [https://docs.google.com/forms/d/e/1FAIpQLSeZGgtNtuVzY5Db2vna2AnLwRICki-o8ZeSog4YMyxVjb8ezg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeZGgtNtuVzY5Db2vna2AnLwRICki-o8ZeSog4YMyxVjb8ezg/viewform)
+
 ## 中文课的学费
 每学期需要根据总课时和学生数量年底结算，用于支付聘请老师的课时费， 根据往年经验，每学期大约2500克朗左右。每个班达到6个孩子及以上可以开班。
 
