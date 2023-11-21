@@ -10,7 +10,7 @@ banner:
   height: "50vh"
   min_height: "38vh"
 sidebar: []
-tags: 中文学校
+tags: 卑尔根华人文化协会
 
 ---
 
