@@ -7,7 +7,7 @@ title: 中文学校
 卑尔根中文学校是卑尔根华人文化交流协会组织的，家长参与的中文教育学校。学校主要为卑尔根的华人和有兴趣学习中文的外籍儿童提供中文教育。卑尔根华人文化协会是在卑尔根地方政府注册的非盈利性公益团体。中文学校是其最重要的一个活动内容。学校现有从幼儿汉语启蒙班到初中低年级水平的共约七个班级。中文教学时间主要集中在周六, 其它公共节假日没有教学活动。
 
 地点: Ny-Krohnborg skole, Rogagaten 9, 5055 Bergen.
-<iframe align="left" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.2219020630973!2d5.331083077054924!3d60.37549412684556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cf95199e23901%3A0xd4e1a4248751e79c!2sNy-Krohnborg%20skole!5e0!3m2!1sno!2sno!4v1701247394588!5m2!1sno!2sno" width="700" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe align="left" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.2219020630973!2d5.331083077054924!3d60.37549412684556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cf95199e23901%3A0xd4e1a4248751e79c!2sNy-Krohnborg%20skole!5e0!3m2!1sno!2sno!4v1701247394588!5m2!1sno!2sno" width="350" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <br>
@@ -16,21 +16,17 @@ title: 中文学校
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## 课程设置
-* 中文1年级一册（教材/教师 待定）
-* 中文第二册（暨南大学华文学院版/陈老师）
-* 中文第四册（暨南大学华文学院版/陈老师）
-* 中文三年级下册（人民教育出版社版本/尚老师）
-* 中文七年级上册（人民教育出版社版本/尚老师）
-* 另有幼儿启蒙版、非汉语母语班等
+## 班级列表
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQloqsDhSZaeE-KdFPmfY8ITlKTFvChoL45dJB4M2GzAlPUw33sz_2XoUbImU-OdicP146JuAAvzx2O/pubhtml?widget=true&amp;headers=true"  width="700" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+## 教学日历
+<iframe src="https://calendar.google.com/calendar/embed?src=bcca.ny2017%40gmail.com&ctz=UTC" style="border: 0" width="700" height="400" frameborder="0" scrolling="no"></iframe>
+
+点击下载[教学日历: 中文学校-教学日历.ics]()
+或
+添加教学日历到你得日历
 
 ## 课程费用
 中文学校由于现阶段无外部赞助，所以教师授课工资需由全体学员共同承担。
@@ -41,7 +37,14 @@ title: 中文学校
 
 中文学校也在积极探讨每个学生每学期固定收费额度的可能性，后续有进展会更新。
 
-附: 2023年秋中文课程报名意向表，[点击报名](https://docs.google.com/forms/d/e/1FAIpQLSdzFhgE73t3ejOkgTQ0_GT4SWYj1MGd-Qkl70ck2E1Mn0dR9g/viewform)
+每学期需要根据总课时和学生数量年底结算，用于支付聘请老师的课时费， 根据往年经验，每学
+期大约2500克朗左右。每个班达到6个孩子及以上可以开班。
+
+上课期间加入和退出的学生，按照具体课时计算收费。
+
+学期开始可以免费试听两次课程。
+
+附: 2023年秋中文课程报名[意向表](https://docs.google.com/forms/d/e/1FAIpQLSdzFhgE73t3ejOkgTQ0_GT4SWYj1MGd-Qkl70ck2E1Mn0dR9g/viewform) （已关闭)
 
 注: 这是报名意向，后期确定开课班级和教师，教学计划后，会另外正式注册。
 
@@ -49,30 +52,9 @@ title: 中文学校
 
 ## 教师介绍
 
-中文学校现阶段有两位兼职中文教师
+中文学校现有三位中文教师
 
-### 陈倩丽 老师
-
-**个人简介**
-
-陈倩丽(Jenny Chen)，原卑尔根孔子学院教师，执教于卑尔根大学。专业从事中文、对外汉语教学和中英文翻译三十年。
-
-**教材**
-
-采用海外华人使用最广泛的、国务院侨办组织暨南大学雄厚师资为华人量身定制的《中文》教材，着重解决 “识字通文”的问题。全部教材、练习册可在网上免费下载。
-
-**课程组成**
-周末一小时课堂教学+课后练习题 + 补充阅读材料和视频（供选用） ，从而解决课时少、学生水平和需求参差不齐等问题。
-
-**课堂教学**
-用课件大量展现文字和图片等内容，通过视觉助力理解和记忆，达到“识字”目标。包括图片、儿歌、故事视频、游戏等，既能反复展示文字，又生动有趣。
-
-附: 
-
-* [师资和教材介绍 (点击下载Word文档)](assets/files/intro-teacher-and-course.docx)
-* [教学方法介绍 (点击下载Powerpoint文件)](assets/files/intro-chinese-course-bergen.pptx) 
-
-### 尚燕 老师
+### 1. 尚燕 老师
 尚老师祖籍河北。曾求学和就职于新加坡，现居挪威，是一名热爱诗歌，钟情于写作，对中国传统文化和教育有着浓厚兴趣的白衣天使。曾出版《海外华语女诗人选集》，诗歌作品也散见于《北欧诗刊》，《欧洲诗友沙龙》，《欧洲华文诗歌会》等期刊。相信心中有光，世界即是晴天!
 
 尚老师现执教中文学校中介班的两个班级，中文大班（教材：人民教育出版社三年级下册）和高级中文班（教材：人民教育出版社七年级上册）。 人教版教材的优点是学习系统，知识结构紧凑，培养学生很强的语言表达能力。另外教材也注重中国传统文化的传承，使学生能够更好地了解自己的文化根基。课堂上也会有多种形式的游戏和分组讨论，让孩子们在轻松愉快的环境中学习语言，互相进步！
@@ -85,9 +67,16 @@ title: 中文学校
 
 (注: 尚燕老师笔名：花雨)
 
+### 2. 王硕 老师
+### 3. 田雨润 老师
 
-###  赵晓杰 老师
+### 往期教师
+* 陈倩丽(2023)
+* 赵晓杰(2023)
+
+### 其他
+2023教师招聘信息(已过期)，详见[教师招聘页面](2023/11/20/recruitment.html)
 
 
-### 其他老师
-正在招聘中，详见[教师招聘页面](2023/11/20/recruitment.html)
+---
+本页面最后更新：2024-01-06; 内容撰写：中文协会委员会成员; 网页编辑：何晏春
