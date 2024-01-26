@@ -2,7 +2,7 @@
 layout: post
 title: 海上升明月，天涯共此时
 subtitle: 
-categories:
+categories: 中文协会 集体活动
 banner:
   image: http://china.chinadaily.com.cn/img/attachement/jpg/site1/20180922/d8cb8a14fd991d10627c0c.jpg
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
@@ -10,7 +10,7 @@ banner:
   height: "50vh"
   min_height: "38vh"
 sidebar: []
-tags: 卑尔根华人文化协会
+tags: 
 
 ---
 

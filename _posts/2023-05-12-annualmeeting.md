@@ -2,7 +2,7 @@
 layout: post
 title: 卑尔根中文协会2023年年会
 subtitle: 
-categories: 会议 中文学校
+categories: 中文学校 会议讨论
 banner:
   image: /assets/images/banners/banner6.jpg
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
@@ -10,7 +10,7 @@ banner:
   height: "50vh"
   min_height: "38vh"
 sidebar: []
-tags: 会议 中文学校
+tags:
 ---
 
 ## 通知

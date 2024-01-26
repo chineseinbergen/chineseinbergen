@@ -43,9 +43,9 @@ author: 卑尔根华人协会
 copyright: "网站建设中 (c) 2017-{currentYear}, {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  卑尔根华人文化协会是在卑尔根地方政府注册的非盈利性公益团体。中文学校是其最重要的一个活动内容。
+  卑尔根中文学校是卑尔根华人文化交流协会组织的，家长参与的中文教育学校。
+  学校主要为卑尔根的华人和有兴趣学习中文的外籍儿童提供中文教育。
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -76,18 +76,18 @@ lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
-# translate_langs:
-#   - lang: en
-#     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
-#     text: English
+translate_langs:
+   - lang: en
+     img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
+     text: English
 #
 #   - lang: fr
 #     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
 #     text: French
 #
-#   - lang: zh-CN
-#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-#     text: Chinese(Simple)
+   - lang: zh-CN
+     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+     text: Chinese(Simple)
 #
 #   - lang: ja
 #     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
@@ -150,10 +150,12 @@ header_pages:
   - about.md
     #- index.html
   - school.md
+  - committee.md
     #- archives.html
     #- categories.html
   - activities.md
     #- tags.html
+    #- menu.html
 
 # Page default value
 # defaults:
