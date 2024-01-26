@@ -2,7 +2,7 @@
 layout: post
 title: 中文教师招聘启事
 subtitle: 
-categories:
+categories: 中文学校 教师招聘
 banner:
   image: /assets/images/banners/zhaopin2.jpg
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
@@ -10,7 +10,7 @@ banner:
   height: "50vh"
   min_height: "38vh"
 sidebar: []
-tags: 中文学校
+tags:
 
 ---
  

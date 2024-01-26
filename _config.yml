@@ -150,10 +150,12 @@ header_pages:
   - about.md
     #- index.html
   - school.md
+  - committee.md
     #- archives.html
     #- categories.html
   - activities.md
-  - tags.html
+    #- tags.html
+    #- menu.html
 
 # Page default value
 # defaults:
