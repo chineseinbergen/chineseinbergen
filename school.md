@@ -23,6 +23,11 @@ title: 中文学校
 
 ### 教学日历
 
+可用此地址订阅该日历（推荐）: https://calendar.google.com/calendar/ical/bcca.ny2017%40gmail.com/public/basic.ics
+
+或者[订阅下载日历](https://calendar.google.com/calendar/ical/bcca.ny2017%40gmail.com/public/basic.ics)
+
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FOslo&mode=AGENDA&hl=zh_CN&showNav=1&showTitle=1&showDate=1&showTabs=1&showCalendars=1&src=YmNjYS5ueTIwMTdAZ21haWwuY29t&src=ZW4ubm9yd2VnaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%230B8043" style="border-width:0" width="700" height="300" frameborder="0" scrolling="no"></iframe>
 
 ### 课程费用
