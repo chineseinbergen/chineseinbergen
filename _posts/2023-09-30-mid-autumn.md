@@ -30,14 +30,14 @@ tags:
 
 在这风清月朗，中秋月圆之际，卑尔根华人文化协会再次祝愿所有学生，家长和各位华人同胞佳节愉快，合家团圆幸福。
 
-![img](../../../assets/images/zhongqiu/WechatIMG18.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103754.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103810.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103836.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103850.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103902.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103910.jpg)
-![img](../../../assets/images/zhongqiu/IMG_20230930_103919.jpg)
+![img](/assets/images/zhongqiu/WechatIMG18.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103754.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103810.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103836.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103850.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103902.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103910.jpg)
+![img](/assets/images/zhongqiu/IMG_20230930_103919.jpg)
 
 
 

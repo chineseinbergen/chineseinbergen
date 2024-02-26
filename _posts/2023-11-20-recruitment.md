@@ -15,7 +15,7 @@ tags:
 ---
  
 ## 卑尔根中文学校中文教师招聘启事 
-<img src="../../../assets/images/zhaopin/zhaopin.png" alt="Recrutment" width="400">
+<img src="/assets/images/zhaopin/zhaopin.png" alt="Recrutment" width="400">
 
 ### 中文学校简介 
 根中文学校是卑尔根华人文化交流协会组织的，家长参与的中文教育学校。学校主要为卑尔根的华人兴趣学习中文的外籍儿童提供中文教育。卑尔根华人文化协会是在卑尔根地方政府注册的非盈利性公益团体。中文学校是其最重要的一个活动内容。学校现有从幼儿汉语启蒙班到初中低年级水平的共约七个班级。中文学习时间主要集中在周六。地点在 Ny-Krohnborg skole, Rogagaten 9, 5055 Bergen. 

@@ -28,4 +28,4 @@ tags:
 
 欢迎大家报名参与，让我们在这春暖花开之际和孩子们一起同玩共乐！
 
-![img](../../../assets/images/posters/20230527.jpeg)
+![img](/assets/images/posters/20230527.jpeg)
