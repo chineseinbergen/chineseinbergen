@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 相约辞旧岁，欢聚庆新春
 subtitle: 
 banner:
   image: /assets/images/2024-yuanxiao/yuanxiao-banner.png
