@@ -3,7 +3,7 @@ layout: post
 title: 相约辞旧岁，欢聚庆新春
 subtitle: 
 banner:
-  image: /assets/images/2024-yuanxiao/yuanxiao-banner.png
+  image:
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
   height: "50vh"
