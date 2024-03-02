@@ -150,10 +150,10 @@ header_pages:
   - about.md
     #- index.html
   - school.md
-  - committee.md
+    # - committee.md
     #- archives.html
     #- categories.html
-  - activities.md
+    #- activities.md
     #- tags.html
     #- menu.html
 
