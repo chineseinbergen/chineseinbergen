@@ -21,7 +21,6 @@ title: 中文学校
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQloqsDhSZaeE-KdFPmfY8ITlKTFvChoL45dJB4M2GzAlPUw33sz_2XoUbImU-OdicP146JuAAvzx2O/pubhtml?widget=true&amp;headers=true"  width="700" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-<!---
 ### 教学日历
 
 可用此地址订阅该日历（推荐）: https://calendar.google.com/calendar/ical/bcca.ny2017%40gmail.com/public/basic.ics
@@ -31,7 +30,6 @@ title: 中文学校
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FOslo&mode=AGENDA&hl=zh_CN&showNav=1&showTitle=1&showDate=1&showTabs=1&showCalendars=1&src=YmNjYS5ueTIwMTdAZ21haWwuY29t&src=ZW4ubm9yd2VnaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%230B8043" style="border-width:0" width="700" height="300" frameborder="0" scrolling="no"></iframe>
 
--->
 
 ### 课程费用
 中文学校由于现阶段无外部赞助，所以教师授课工资需由全体学员共同承担。
